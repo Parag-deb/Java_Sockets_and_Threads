@@ -1,0 +1,4 @@
+to compile from root folder -> javac -d out src\problemoblem1\ClientHandle.java src\problem1\Client.java
+to run -> java -cp out problem1.Server
+
+for client in another terminal -> java -cp out problem1.Client
